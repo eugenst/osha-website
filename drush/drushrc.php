@@ -283,6 +283,7 @@ $options['init-modules'] = array(
   'pathauto',
   'uuid',
 
+  'tmgmt_local',
   'tmgmt_entity',
   'tmgmt_ui',
   'tmgmt_file',
